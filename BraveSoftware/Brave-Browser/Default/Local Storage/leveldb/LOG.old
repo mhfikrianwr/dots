@@ -1,0 +1,9 @@
+2026/05/04-19:32:31.505 5 Reusing MANIFEST /home/archfikri/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/04-19:32:31.509 5 Recovering log #3
+2026/05/04-19:32:31.509 5 Reusing old log /home/archfikri/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000003.log 
+2026/05/04-19:53:52.109 7 Level-0 table #5: started
+2026/05/04-19:53:52.122 7 Level-0 table #5: 89587 bytes OK
+2026/05/04-19:53:52.125 7 Delete type=0 #3
+2026/05/04-20:06:09.028 7 Level-0 table #7: started
+2026/05/04-20:06:09.038 7 Level-0 table #7: 20339 bytes OK
+2026/05/04-20:06:09.042 7 Delete type=0 #4
